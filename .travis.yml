@@ -1,0 +1,5 @@
+language: swift #objective-c
+xcode_project: SimpleApp/SimpleApp.xcodeproj # path to your xcodeproj folder
+xcode_scheme: SimpleAppTests
+xcode_destination: platform=iOS Simulator,OS=10.1,name=iPad Pro (9.7-inch)
+osx_image: xcode10.1
