@@ -1,5 +1,6 @@
 language: swift #objective-c
-xcode_project: SimpleApp/SimpleApp.xcodeproj # path to your xcodeproj folder
+#xcode_project: SimpleApp/SimpleApp.xcodeproj # path to your xcodeproj folder
+xcode_workspace: SimpleApp/SimpleApp.xcworkspace
 xcode_scheme: SimpleApp
 xcode_destination: platform=iOS Simulator,OS=12.1,name=iPhone X
 osx_image: xcode10.1
