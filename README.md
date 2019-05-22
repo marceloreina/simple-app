@@ -1,4 +1,4 @@
-![](https://travis-ci.com/marceloreina/simple-app.svg?branch=master)
+![](https://travis-ci.org/marceloreina/simple-app.svg?branch=master)
 
 # simple-app
 
